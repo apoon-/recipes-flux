@@ -345,6 +345,28 @@
         }
       ],
       "instructions": "Lightly grease 9x13-inch glass baking dish. \n Beat first 5 ingredients in medium bowl to blend. \n Arrange chilies from 1 can in prepared dish, covering bottom completely. \n Sprinkle with 1/3 of each cheese. \n Repeat layering twice. \n Pour egg mixture over cheese. \n Let stand 30 minutes. \n ( \n Can be prepared 1 day ahead. \n Cover and refrigerate. \n ) \n Preheat oven to 350Â°F. \n Bake until casserole is slightly puffed in center and golden brown on edges, about 45 minutes. \n Cool 20 minutes and serve. \n "
+    },
+    {
+      "_id": "5c62c77d-241e-40bf-bf4d-485a28ad9442",
+      "title": "New Recipe (edit me)",
+      "portions": "",
+      "totalTimeInMinutes": "",
+      "instructions": "",
+      "ingredients": [
+        {
+          "ingredient": "Brown Rice",
+          "quantity": 2.5,
+          "measurement": "cups",
+          "modifier": "cooked"
+        },
+        {
+          "ingredient": "",
+          "quantity": "",
+          "measurement": "",
+          "modifier": ""
+        }
+      ],
+      "saved": false
     }
   ]
 }
